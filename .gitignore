@@ -1,0 +1,14 @@
+# Qt build artifacts
+build/
+*.o
+*.obj
+*.exe
+
+# Qt Creator user files
+*.pro.user
+*.pro.user.*
+*.user
+
+# OS / editor
+.DS_Store
+Thumbs.db
